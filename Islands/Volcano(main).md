@@ -1,6 +1,6 @@
  ># Obstinatus Urbe _(Resort City)_
  >**Population**: 25,000+
- >**Government**: 
+ >**Government**:
  >    [Royal Governor]()
  >    [Elected Council]()
  >**Defense**:
